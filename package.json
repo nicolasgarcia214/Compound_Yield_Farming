@@ -1,0 +1,29 @@
+{
+  "name": "compound_yield_farming",
+  "version": "1.0.0",
+  "description": "Compound Yield Farming practice",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasgarcia214/Compound_Yield_Farming.git"
+  },
+  "keywords": [
+    "Solidity"
+  ],
+  "author": "nicolasgarcia214@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolasgarcia214/Compound_Yield_Farming/issues"
+  },
+  "homepage": "https://github.com/nicolasgarcia214/Compound_Yield_Farming#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.1",
+    "@studydefi/money-legos": "^2.4.1"
+  }
+}
